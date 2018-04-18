@@ -12,6 +12,7 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello FCI");
             Console.WriteLine("Hello Merge");
+            Console.WriteLine("This is copy 2");
             Console.ReadLine();
         }
     }
