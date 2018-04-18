@@ -13,7 +13,9 @@ namespace HelloWorld
             Console.WriteLine("Hello FCI");
             Console.WriteLine("Hello Merge");
             Console.WriteLine("this is Copy 1");
+            Console.WriteLine("This is copy 2");
             Console.WriteLine("this is Copy 3");
+
             Console.ReadLine();
         }
     }
